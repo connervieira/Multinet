@@ -2,9 +2,6 @@
 Multinet is a thought provoking game for computer techies, in which the player explores the "Multinet", an alternate internet developed by a fictional AI coined GalaxyAI. The player explores this virtual world using the command line, by entering Linux style commands.
 ![Multinet Logo](https://v0lttech.com/assets/img/multinetlogo.png)
 
-## License
-Licensed under the V0LT Source Code License: https://v0lttech.com/files/documents/licenses/VoltSourceCodeLicense.pdf
-
 ## Binaries
 A complied version can be downloaded at https://v0lttech.com/multinet.php
 
